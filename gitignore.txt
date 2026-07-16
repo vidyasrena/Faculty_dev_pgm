@@ -122,7 +122,9 @@ build/
 
 
 # ------------------------------------------------------------
-# 11. Large archives created during submission or sharing
+# 11. Large archives 
+
+created during submission or sharing
 # ------------------------------------------------------------
 *.zip
 *.rar
@@ -145,3 +147,4 @@ evidence-local/
 # tracked in this workshop:
 # *.docx, *.pptx, *.xlsx, *.pdf, *.txt, *.csv, *.md
 # ------------------------------------------------------------
+gotoignore.txt
